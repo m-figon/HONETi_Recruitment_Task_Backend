@@ -8,7 +8,7 @@
 
  ## front-end source code
 
-https://github.com/m-figon/HONETi_Recruitment_Task_Backend
+https://github.com/m-figon/HONETi_Recruitment_Task
 
  ## page link
 
@@ -16,4 +16,4 @@ https://honeti-recruitment-task-mfigon.netlify.app/
 
 ## video presentation link
 
-https://drive.google.com/file/d/1Q9GbHAyCiXcU62XjClcSkp70bP_5G2hE/view?usp=sharing
+https://drive.google.com/file/d/1zHMdICfOTdUMpGzCbpW_kk8dcp0s0Z7w/view?usp=sharing
